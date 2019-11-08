@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RestFu</string>
+    <string name="get1_button">GET1</string>
+    <string name="get2_button">GET2</string>
+    <string name="get3_button">GET3</string>
+    <string name="post_button">POST</string>
+    <string name="full_name">%1$s %2$s </string>
+    <string name="affiliation">Affiliation: %1$s </string>
+    <string name="birth_date">Birth Date: %1$s </string>
+    <string name="force_sensitive">Force Sensitive: %1$s </string>
+    <string name="force_sensitive_img">Force Sensitive Img</string>
+    <string name="bio">Bio: \n %1$s</string>
+    <string name="user_img">User Image</string>
+    <string name="Leia_Organa">Leader in the Rebel Alliance, the New Republic, and the Resistance.
+        She is the biological daughter of Anakin Skywalker and Padmé Amidala, as well as Luke Skywalker\'s twin sister,
+        Han Solo\'s wife and Kylo Ren\'s mother.</string>
+    <string name="Kylo_Ren">Alter-ego of Ben Solo after his fall to the dark side. He is a leader in the First Order and the
+        Master of the Knights of Ren. In The Last Jedi, he kills Snoke and becomes the new Supreme Leader of the First Order.</string>
+    <string name="Darth_Vader">Jedi whose fall and redemption are portrayed in the Star Wars films. His master was Obi-Wan Kenobi.
+        He was married to Padmé Amidala; father of Luke and Leia. He is an excellent podracer and he is \"the Chosen One\".
+        Known as \"Darth Vader\" after his fall to the dark side.</string>
+    <string name="Luke_Skywalker">Jedi whose coming of age and rise as a Jedi are portrayed in the original Star Wars trilogy.
+        Son of Anakin Skywalker and Padmé Amidala, and Leia Organa\'s twin brother.</string>
+    <string name="Han_Solo">Captain of the Millennium Falcon who joins the Rebellion and marries Leia Organa.
+        He is murdered by his son, Kylo Ren, after a failed attempt to turn his son from the dark side.</string>
+    <string name="Chewbacca">Han Solo\'s Wookiee partner and co-pilot of the Millennium Falcon.</string>
+    <string name="Supreme_Leader_Snoke">Political leader of the First Order.
+        He is Kylo Ren\'s master and is very powerful in the dark side of the Force.
+        He was killed by Kylo Ren in The Last Jedi.</string>
+    <string name="General_Hux">General of the First Order who presides over Starkiller Base under Supreme Leader Snoke
+        in The Force Awakens. In The Last Jedi, Hux commands the fleet chasing down the Resistance, first to the irritation
+        and then to the approval of Snoke.</string>
+</resources>
